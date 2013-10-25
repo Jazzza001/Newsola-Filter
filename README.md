@@ -4,11 +4,15 @@ Are you sick of reading depressing headlines on Newsola? Now you can filter them
 
 ## Requirements
 
-* Tampermonkey for Chrome or Greasemonkey for Firefox.
-* jQuery (loaded by Newsola).
+* Tampermonkey for Chrome or Greasemonkey for Firefox
+* jQuery (loaded by Newsola)
 
 ## Installation
 
 * Install in your scripting extension
 * Modify the array of bad words to suit your preferences
 * Load up Newsola!
+
+## Roadmap
+
+* I plan to update this repo with more default bad words and if you have any ideas, create a repo issue :)

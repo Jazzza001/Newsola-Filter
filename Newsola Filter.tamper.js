@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name       Newsola Filter
-// @namespace  http://www.jaredwilliams.com
+// @namespace  http://www.jaredwilliams.com.au
 // @version    0.1
 // @description  Filters headlines from Newsola to suit what you do or do not want to read.
 // @match      http://tampermonkey.net/index.php?version=3.5.3630.66&ext=dhdg&updated=true
