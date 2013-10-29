@@ -15,4 +15,4 @@ Are you sick of reading depressing headlines on Newsola? Now you can filter them
 
 ## Roadmap
 
-* I plan to update this repo with more default bad words and if you have any ideas, create a repo issue :)
+* Add a button to Newsola for configuration (for custom filters)
